@@ -1,8 +1,10 @@
 # Travel Manager: A Comprehensive Command-Line Travel Agency Management Application
 Travel Manager
+
 Welcome to Travel Manager, a command-line application developed for efficiently managing a travel agency. Written in C, this application offers a variety of features to streamline travel management operations. Here’s what Travel Manager allows you to do:
 
 Features:
+
 Add a Trip: Easily create new travel entries.
 
 View Trip Description: Access detailed information about any trip.
