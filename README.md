@@ -20,3 +20,4 @@ View All Trips: Display a list of all trips in the system.
 The application is built with seven main functions, including an additional utility function designed to improve code readability and maintainability.
 
 Feel free to explore, contribute, and enhance Travel Manager. We hope this application meets your travel management needs.
+ 
